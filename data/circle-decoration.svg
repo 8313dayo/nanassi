@@ -1,0 +1,6 @@
+
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="40" cy="40" r="30" fill="none" stroke="#B0B0B8" stroke-width="2" stroke-dasharray="10 5" opacity="0.6"/>
+  <circle cx="40" cy="40" r="20" fill="#E9E9EF" fill-opacity="0.4"/>
+  <text x="20" y="53" font-family="Arial" font-size="30" fill="#FF91A4">🍭</text>
+</svg>

@@ -1,0 +1,9 @@
+
+<svg width="200" height="40" viewBox="0 0 200 40" xmlns="http://www.w3.org/2000/svg">
+  <path d="M20 20C20 24.4183 16.4183 28 12 28C7.58172 28 4 24.4183 4 20C4 15.5817 7.58172 12 12 12C16.4183 12 20 15.5817 20 20Z" fill="#FF91A4"/>
+  <text x="30" y="25" font-family="Arial" font-size="16" fill="#FF6B88">🍭</text>
+  <path d="M80 20L86 26L80 32L74 26L80 20Z" fill="#FF91A4"/>
+  <text x="100" y="25" font-family="Arial" font-size="16" fill="#FF6B88">🍭</text>
+  <path d="M150 20C150 24.4183 146.418 28 142 28C137.582 28 134 24.4183 134 20C134 15.5817 137.582 12 142 12C146.418 12 150 15.5817 150 20Z" fill="#FF91A4"/>
+  <text x="170" y="25" font-family="Arial" font-size="16" fill="#FF6B88">🍭</text>
+</svg>
